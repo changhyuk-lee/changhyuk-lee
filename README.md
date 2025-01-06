@@ -1,7 +1,7 @@
-## Hi there 👋
-### I am a beginner of github
-### I am interested in A/I related coding
-### I hope I can contribute somthing to this community asap
+### Hi there 👋
+##### I am a beginner of github
+##### I am interested in A/I related coding
+##### I hope I can contribute somthing to this community asap
 
 <!--
 **changhyuk-lee/changhyuk-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
